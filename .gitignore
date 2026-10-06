@@ -1,0 +1,9 @@
+bin/
+obj/
+Reports/
+publish/
+.nuget-feed/
+.nuget-packages/
+.vs/
+*.user
+*.suo
